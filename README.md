@@ -1,2 +1,7 @@
 # Kucis2023
-Create Log Analyzer
+---
+## Subject: Create Log Analyzer
+---
+## Version
+- Python 3.10.12
+
