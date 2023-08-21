@@ -35,7 +35,6 @@ cd journal
 journalctl | grep sudo > sudo.txt
 journalctl | grep Accept > Accept_SSH.txt
 journalctl | grep Failed | grep sshd > Failed_SSH.txt
-journalctl | grep COMM
 
 echo "extract last"
 #last/last 기록 뽑기
