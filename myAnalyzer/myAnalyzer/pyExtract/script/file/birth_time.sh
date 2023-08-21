@@ -1,8 +1,8 @@
 #!/bin/bash
 
 directories="$1"
-output_dir="result/modify_time"
-result_directory="result/modify_time"
+output_dir="result/birth_time"
+result_directory="result/birth_time"
 
 if [ ! -d "$result_directory" ]; then
     echo "Creating directory: $directory"
